@@ -12,3 +12,4 @@ D:\project\c#\DataType\obj\Debug\net8.0\refint\DataType.dll
 D:\project\c#\DataType\obj\Debug\net8.0\DataType.pdb
 D:\project\c#\DataType\obj\Debug\net8.0\DataType.genruntimeconfig.cache
 D:\project\c#\DataType\obj\Debug\net8.0\ref\DataType.dll
+D:\project\c#\DataType\obj\Debug\net8.0\DataType.sourcelink.json
