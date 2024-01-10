@@ -1,0 +1,14 @@
+D:\project\c#\ProgramEntry\bin\Debug\net8.0\ProgramEntry.exe
+D:\project\c#\ProgramEntry\bin\Debug\net8.0\ProgramEntry.deps.json
+D:\project\c#\ProgramEntry\bin\Debug\net8.0\ProgramEntry.runtimeconfig.json
+D:\project\c#\ProgramEntry\bin\Debug\net8.0\ProgramEntry.dll
+D:\project\c#\ProgramEntry\bin\Debug\net8.0\ProgramEntry.pdb
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\ProgramEntry.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\ProgramEntry.AssemblyInfoInputs.cache
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\ProgramEntry.AssemblyInfo.cs
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\ProgramEntry.csproj.CoreCompileInputs.cache
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\ProgramEntry.dll
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\refint\ProgramEntry.dll
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\ProgramEntry.pdb
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\ProgramEntry.genruntimeconfig.cache
+D:\project\c#\ProgramEntry\obj\Debug\net8.0\ref\ProgramEntry.dll

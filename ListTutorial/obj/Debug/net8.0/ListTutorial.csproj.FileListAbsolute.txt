@@ -1,0 +1,14 @@
+D:\project\c#\ListTutorial\bin\Debug\net8.0\ListTutorial.exe
+D:\project\c#\ListTutorial\bin\Debug\net8.0\ListTutorial.deps.json
+D:\project\c#\ListTutorial\bin\Debug\net8.0\ListTutorial.runtimeconfig.json
+D:\project\c#\ListTutorial\bin\Debug\net8.0\ListTutorial.dll
+D:\project\c#\ListTutorial\bin\Debug\net8.0\ListTutorial.pdb
+D:\project\c#\ListTutorial\obj\Debug\net8.0\ListTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\ListTutorial\obj\Debug\net8.0\ListTutorial.AssemblyInfoInputs.cache
+D:\project\c#\ListTutorial\obj\Debug\net8.0\ListTutorial.AssemblyInfo.cs
+D:\project\c#\ListTutorial\obj\Debug\net8.0\ListTutorial.csproj.CoreCompileInputs.cache
+D:\project\c#\ListTutorial\obj\Debug\net8.0\ListTutorial.dll
+D:\project\c#\ListTutorial\obj\Debug\net8.0\refint\ListTutorial.dll
+D:\project\c#\ListTutorial\obj\Debug\net8.0\ListTutorial.pdb
+D:\project\c#\ListTutorial\obj\Debug\net8.0\ListTutorial.genruntimeconfig.cache
+D:\project\c#\ListTutorial\obj\Debug\net8.0\ref\ListTutorial.dll

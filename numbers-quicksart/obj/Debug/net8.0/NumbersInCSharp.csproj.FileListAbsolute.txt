@@ -1,0 +1,14 @@
+D:\project\c#\numbers-quicksart\bin\Debug\net8.0\NumbersInCSharp.exe
+D:\project\c#\numbers-quicksart\bin\Debug\net8.0\NumbersInCSharp.deps.json
+D:\project\c#\numbers-quicksart\bin\Debug\net8.0\NumbersInCSharp.runtimeconfig.json
+D:\project\c#\numbers-quicksart\bin\Debug\net8.0\NumbersInCSharp.dll
+D:\project\c#\numbers-quicksart\bin\Debug\net8.0\NumbersInCSharp.pdb
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\NumbersInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\NumbersInCSharp.AssemblyInfoInputs.cache
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\NumbersInCSharp.AssemblyInfo.cs
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\NumbersInCSharp.csproj.CoreCompileInputs.cache
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\NumbersInCSharp.dll
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\refint\NumbersInCSharp.dll
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\NumbersInCSharp.pdb
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\NumbersInCSharp.genruntimeconfig.cache
+D:\project\c#\numbers-quicksart\obj\Debug\net8.0\ref\NumbersInCSharp.dll

@@ -1,0 +1,14 @@
+D:\project\c#\TopStatement\obj\Debug\net8.0\TopStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\TopStatement\obj\Debug\net8.0\TopStatement.AssemblyInfoInputs.cache
+D:\project\c#\TopStatement\obj\Debug\net8.0\TopStatement.AssemblyInfo.cs
+D:\project\c#\TopStatement\obj\Debug\net8.0\TopStatement.csproj.CoreCompileInputs.cache
+D:\project\c#\TopStatement\bin\Debug\net8.0\TopStatement.exe
+D:\project\c#\TopStatement\bin\Debug\net8.0\TopStatement.deps.json
+D:\project\c#\TopStatement\bin\Debug\net8.0\TopStatement.runtimeconfig.json
+D:\project\c#\TopStatement\bin\Debug\net8.0\TopStatement.dll
+D:\project\c#\TopStatement\bin\Debug\net8.0\TopStatement.pdb
+D:\project\c#\TopStatement\obj\Debug\net8.0\TopStatement.dll
+D:\project\c#\TopStatement\obj\Debug\net8.0\refint\TopStatement.dll
+D:\project\c#\TopStatement\obj\Debug\net8.0\TopStatement.pdb
+D:\project\c#\TopStatement\obj\Debug\net8.0\TopStatement.genruntimeconfig.cache
+D:\project\c#\TopStatement\obj\Debug\net8.0\ref\TopStatement.dll

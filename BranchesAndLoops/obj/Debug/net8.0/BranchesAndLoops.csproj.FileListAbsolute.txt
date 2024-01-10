@@ -1,0 +1,14 @@
+D:\project\c#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.exe
+D:\project\c#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.deps.json
+D:\project\c#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.runtimeconfig.json
+D:\project\c#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.dll
+D:\project\c#\BranchesAndLoops\bin\Debug\net8.0\BranchesAndLoops.pdb
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfoInputs.cache
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.AssemblyInfo.cs
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.csproj.CoreCompileInputs.cache
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.dll
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\refint\BranchesAndLoops.dll
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.pdb
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\BranchesAndLoops.genruntimeconfig.cache
+D:\project\c#\BranchesAndLoops\obj\Debug\net8.0\ref\BranchesAndLoops.dll
