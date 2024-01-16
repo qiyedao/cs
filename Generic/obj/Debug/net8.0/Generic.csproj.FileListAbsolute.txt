@@ -1,0 +1,15 @@
+D:\project\c#\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+D:\project\c#\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+D:\project\c#\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+D:\project\c#\Generic\obj\Debug\net8.0\Generic.sourcelink.json
+D:\project\c#\Generic\bin\Debug\net8.0\Generic.exe
+D:\project\c#\Generic\bin\Debug\net8.0\Generic.deps.json
+D:\project\c#\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+D:\project\c#\Generic\bin\Debug\net8.0\Generic.dll
+D:\project\c#\Generic\bin\Debug\net8.0\Generic.pdb
+D:\project\c#\Generic\obj\Debug\net8.0\Generic.dll
+D:\project\c#\Generic\obj\Debug\net8.0\refint\Generic.dll
+D:\project\c#\Generic\obj\Debug\net8.0\Generic.pdb
+D:\project\c#\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+D:\project\c#\Generic\obj\Debug\net8.0\ref\Generic.dll
