@@ -1,0 +1,15 @@
+D:\project\c#\Record\obj\Debug\net8.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\Record\obj\Debug\net8.0\Record.AssemblyInfoInputs.cache
+D:\project\c#\Record\obj\Debug\net8.0\Record.AssemblyInfo.cs
+D:\project\c#\Record\obj\Debug\net8.0\Record.csproj.CoreCompileInputs.cache
+D:\project\c#\Record\obj\Debug\net8.0\Record.sourcelink.json
+D:\project\c#\Record\bin\Debug\net8.0\Record.exe
+D:\project\c#\Record\bin\Debug\net8.0\Record.deps.json
+D:\project\c#\Record\bin\Debug\net8.0\Record.runtimeconfig.json
+D:\project\c#\Record\bin\Debug\net8.0\Record.dll
+D:\project\c#\Record\bin\Debug\net8.0\Record.pdb
+D:\project\c#\Record\obj\Debug\net8.0\Record.dll
+D:\project\c#\Record\obj\Debug\net8.0\refint\Record.dll
+D:\project\c#\Record\obj\Debug\net8.0\Record.pdb
+D:\project\c#\Record\obj\Debug\net8.0\Record.genruntimeconfig.cache
+D:\project\c#\Record\obj\Debug\net8.0\ref\Record.dll
