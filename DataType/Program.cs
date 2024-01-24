@@ -11,6 +11,7 @@ char c = 'c';
 string name = "yi";
 bool status = true;
 int[] ages = { 18, 20 };
+int[] heights = [1, 2, 3, 5];
 char[] chars = { 'a', 'b' };
 string[] names = { "a", "b" };
 bool[] payInfo = { true, false };
