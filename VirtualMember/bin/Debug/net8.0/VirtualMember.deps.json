@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VirtualMember/1.0.0": {
+        "runtime": {
+          "VirtualMember.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VirtualMember/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

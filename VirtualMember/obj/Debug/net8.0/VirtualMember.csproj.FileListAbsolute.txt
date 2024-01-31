@@ -1,0 +1,15 @@
+D:\project\c#\VirtualMember\obj\Debug\net8.0\VirtualMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\VirtualMember\obj\Debug\net8.0\VirtualMember.AssemblyInfoInputs.cache
+D:\project\c#\VirtualMember\obj\Debug\net8.0\VirtualMember.AssemblyInfo.cs
+D:\project\c#\VirtualMember\obj\Debug\net8.0\VirtualMember.csproj.CoreCompileInputs.cache
+D:\project\c#\VirtualMember\obj\Debug\net8.0\VirtualMember.sourcelink.json
+D:\project\c#\VirtualMember\bin\Debug\net8.0\VirtualMember.exe
+D:\project\c#\VirtualMember\bin\Debug\net8.0\VirtualMember.deps.json
+D:\project\c#\VirtualMember\bin\Debug\net8.0\VirtualMember.runtimeconfig.json
+D:\project\c#\VirtualMember\bin\Debug\net8.0\VirtualMember.dll
+D:\project\c#\VirtualMember\bin\Debug\net8.0\VirtualMember.pdb
+D:\project\c#\VirtualMember\obj\Debug\net8.0\VirtualMember.dll
+D:\project\c#\VirtualMember\obj\Debug\net8.0\refint\VirtualMember.dll
+D:\project\c#\VirtualMember\obj\Debug\net8.0\VirtualMember.pdb
+D:\project\c#\VirtualMember\obj\Debug\net8.0\VirtualMember.genruntimeconfig.cache
+D:\project\c#\VirtualMember\obj\Debug\net8.0\ref\VirtualMember.dll
