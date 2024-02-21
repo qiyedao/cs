@@ -1,0 +1,15 @@
+D:\project\c#\ModeMatch\bin\Debug\net8.0\ModeMatch.exe
+D:\project\c#\ModeMatch\bin\Debug\net8.0\ModeMatch.deps.json
+D:\project\c#\ModeMatch\bin\Debug\net8.0\ModeMatch.runtimeconfig.json
+D:\project\c#\ModeMatch\bin\Debug\net8.0\ModeMatch.dll
+D:\project\c#\ModeMatch\bin\Debug\net8.0\ModeMatch.pdb
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ModeMatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ModeMatch.AssemblyInfoInputs.cache
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ModeMatch.AssemblyInfo.cs
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ModeMatch.csproj.CoreCompileInputs.cache
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ModeMatch.sourcelink.json
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ModeMatch.dll
+D:\project\c#\ModeMatch\obj\Debug\net8.0\refint\ModeMatch.dll
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ModeMatch.pdb
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ModeMatch.genruntimeconfig.cache
+D:\project\c#\ModeMatch\obj\Debug\net8.0\ref\ModeMatch.dll
