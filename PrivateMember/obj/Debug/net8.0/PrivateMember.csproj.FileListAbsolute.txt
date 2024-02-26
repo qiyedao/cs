@@ -1,0 +1,15 @@
+D:\project\c#\PrivateMember\obj\Debug\net8.0\PrivateMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\PrivateMember\obj\Debug\net8.0\PrivateMember.AssemblyInfoInputs.cache
+D:\project\c#\PrivateMember\obj\Debug\net8.0\PrivateMember.AssemblyInfo.cs
+D:\project\c#\PrivateMember\obj\Debug\net8.0\PrivateMember.csproj.CoreCompileInputs.cache
+D:\project\c#\PrivateMember\obj\Debug\net8.0\PrivateMember.sourcelink.json
+D:\project\c#\PrivateMember\bin\Debug\net8.0\PrivateMember.exe
+D:\project\c#\PrivateMember\bin\Debug\net8.0\PrivateMember.deps.json
+D:\project\c#\PrivateMember\bin\Debug\net8.0\PrivateMember.runtimeconfig.json
+D:\project\c#\PrivateMember\bin\Debug\net8.0\PrivateMember.dll
+D:\project\c#\PrivateMember\bin\Debug\net8.0\PrivateMember.pdb
+D:\project\c#\PrivateMember\obj\Debug\net8.0\PrivateMember.dll
+D:\project\c#\PrivateMember\obj\Debug\net8.0\refint\PrivateMember.dll
+D:\project\c#\PrivateMember\obj\Debug\net8.0\PrivateMember.pdb
+D:\project\c#\PrivateMember\obj\Debug\net8.0\PrivateMember.genruntimeconfig.cache
+D:\project\c#\PrivateMember\obj\Debug\net8.0\ref\PrivateMember.dll
