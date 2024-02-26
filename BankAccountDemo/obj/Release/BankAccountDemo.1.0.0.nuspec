@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BankAccountDemo</id>
+    <version>1.0.0</version>
+    <authors>BankAccountDemo</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="08465341e52fc475d8f28661c92fad43f52ca649" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\project\c#\BankAccountDemo\bin\Release\net8.0\BankAccountDemo.runtimeconfig.json" target="lib\net8.0\BankAccountDemo.runtimeconfig.json" />
+    <file src="D:\project\c#\BankAccountDemo\bin\Release\net8.0\BankAccountDemo.dll" target="lib\net8.0\BankAccountDemo.dll" />
+  </files>
+</package>

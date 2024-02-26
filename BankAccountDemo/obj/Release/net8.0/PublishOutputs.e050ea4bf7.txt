@@ -1,0 +1,5 @@
+D:\project\c#\BankAccountDemo\bin\Release\net8.0\publish\BankAccountDemo.exe
+D:\project\c#\BankAccountDemo\bin\Release\net8.0\publish\BankAccountDemo.dll
+D:\project\c#\BankAccountDemo\bin\Release\net8.0\publish\BankAccountDemo.deps.json
+D:\project\c#\BankAccountDemo\bin\Release\net8.0\publish\BankAccountDemo.runtimeconfig.json
+D:\project\c#\BankAccountDemo\bin\Release\net8.0\publish\BankAccountDemo.pdb
